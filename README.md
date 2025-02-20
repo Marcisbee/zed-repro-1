@@ -24,4 +24,4 @@ Open `main.js` file in zed editor and run "editor: format" command.
 
 ## Step 6
 Verify:
-- biome.json says to have SINGLE quotes and nothing changed, even tho main.js has single quotes.
+- biome.json says to have SINGLE quotes and nothing changed, even tho main.js has double quotes.
